@@ -17,7 +17,8 @@ Aliquam ut erat:
 - Amet mauris
 Quis convallis nisl. Integer semper "enim sed metus facilisis, eget semper mi tincidunt.
 Quis convallis nisl. Integer semper enim sed metus facilisis, eget semper mi tincidunt.
-'''C#
+```C#
 int first = 1;
 int second = 2:
 int total= first + second;
+```C#
