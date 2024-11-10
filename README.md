@@ -19,5 +19,4 @@ Quis convallis nisl. Integer semper "enim sed metus facilisis, eget semper mi ti
 Quis convallis nisl. Integer semper enim sed metus facilisis, eget semper mi tincidunt.
 int first = 1;
 int second = 2:
-int total
-= first + second;
+int total= first + second;
