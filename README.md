@@ -25,4 +25,4 @@ int total= first + second;
 Duis tincidunt ornare lorem eu porttitor. Ut venenatis [Pluralsight](https://www.pluralsight.com/). eget arcu hendrerit tincidunt. Vestibulum venenatis vulputate neque.
 ## Licenses
 You can read our licenses here:
-[iconcol(liconco md)l
+[license]license.md)
